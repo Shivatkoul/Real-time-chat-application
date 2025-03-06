@@ -11,23 +11,8 @@ Full Stack Realtime-Chat-Application
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
 
-**Client:**
-* `VITE_ENDPOINT_URL` your backend url 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/SHABIN-K/Realtime-Chat-Application.git
-  cd client
-  # <Create .env appropriately>
-  cd ..
-  npm run devnpm
-  npm run dev
-```
 
 ## Support   
 Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
