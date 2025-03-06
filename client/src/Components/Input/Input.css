@@ -1,0 +1,52 @@
+.form {
+  border-top: 2px solid #d3d3d3;
+}
+
+.input {
+  border: none;
+  border-radius: 0;
+  padding: 5%;
+  width: 80%;
+  font-size: 1.2em;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+.sendButton {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #2979ff;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 40px;
+  border: none;
+  width: 20%;
+}
+
+.errorButton {
+  color: #fff !important;
+  font-size: large;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #2979ff;
+  border: none;
+  width: 100%;
+}
+
+.errorText {
+  text-align: center;
+  margin-left: 150px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.errorButton:hover {
+  color: #fff !important;
+  background: rgb(16, 77, 163);
+}
